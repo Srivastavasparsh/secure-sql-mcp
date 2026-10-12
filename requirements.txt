@@ -1,0 +1,5 @@
+streamlit
+pandas
+aiosqlite
+sqlglot
+mcp
